@@ -1,6 +1,6 @@
 // pages/index.jsx
 import Head from 'next/head'
-import {Ready} from './ready';
+import Ready from './ready';
 
 const Home = () => (
     <div>
